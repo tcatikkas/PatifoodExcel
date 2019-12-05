@@ -1,0 +1,11 @@
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\bin\Debug\PatifoodExcelApp.exe.config
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\bin\Debug\PatifoodExcelApp.exe
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\bin\Debug\PatifoodExcelApp.pdb
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\obj\Debug\PatifoodExcelApp.csprojResolveAssemblyReference.cache
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\obj\Debug\PatifoodExcelApp.Form1.resources
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\obj\Debug\PatifoodExcelApp.Properties.Resources.resources
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\obj\Debug\PatifoodExcelApp.csproj.GenerateResource.Cache
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\obj\Debug\PatifoodExcelApp.exe
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\obj\Debug\PatifoodExcelApp.pdb
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tolga\Desktop\mehmet\proje\PatifoodExcelApp\PatifoodExcelApp\bin\Debug\Newtonsoft.Json.xml
