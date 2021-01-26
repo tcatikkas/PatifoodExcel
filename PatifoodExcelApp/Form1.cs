@@ -392,8 +392,15 @@ namespace PatifoodExcelApp
                       + HttpUtility.UrlEncode(postParameters[key]) + "&";
             }
 
+            ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
+
+            // Skip validation of SSL/TLS certificate
+            ServicePointManager.ServerCertificateValidationCallback = delegate { return true; };
+
             HttpWebRequest myHttpWebRequest = (HttpWebRequest)HttpWebRequest.Create("https://www.patifood.com/index.php?page=module%2Fwebservice");
             myHttpWebRequest.Method = "POST";
+
+
 
             byte[] data = Encoding.ASCII.GetBytes(postData);
 
